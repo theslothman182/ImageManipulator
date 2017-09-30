@@ -1,0 +1,158 @@
+﻿Build started 05/05/2017 19:11:23.
+     1>Project "C:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Images\Images.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Images\Include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Images.pch" /Fo"Debug\\" /Fd"Debug\Images.pdb" /doc"Debug\\" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Images\Include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Images.pch" /Fo"Debug\\" /Fd"Debug\Images.pdb" /doc"Debug\\" /Gd /TP /analyze- /errorReport:prompt ImageFactory.cpp MediaManager.cpp
+         MediaManager.cpp
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(118): warning C4635: XML document comment applied to 'fipImage.#ctor(FREE_IMAGE_TYPE,System.UInt32,System.UInt32,System.UInt32)': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(148): warning C4635: XML document comment applied to 'fipImage.op_Assign(FIBITMAP*)': badly-formed XML: Only one top level element is allowed in an XML document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(236): warning C4635: XML document comment applied to 'fipImage.load(System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*,System.Int32)': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(341): warning C4635: XML document comment applied to 'fipImage.op_Implicit~FIBITMAP*': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(385): warning C4635: XML document comment applied to 'fipImage.getBitsPerPixel': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(392): warning C4635: XML document comment applied to 'fipImage.getLine': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(491): warning C4635: XML document comment applied to 'fipImage.accessPixels': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(504): warning C4635: XML document comment applied to 'fipImage.getScanLine(System.UInt32)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(596): warning C4635: XML document comment applied to 'fipImage.convertToGrayscale': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(604): warning C4635: XML document comment applied to 'fipImage.colorQuantize(FREE_IMAGE_QUANTIZE)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(792): warning C4635: XML document comment applied to 'fipImage.rotateEx(System.Double,System.Double,System.Double,System.Double,System.Double,System.Int32)': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(838): warning C4635: XML document comment applied to 'fipImage.adjustCurve(System.Byte*,FREE_IMAGE_COLOR_CHANNEL)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(861): warning C4635: XML document comment applied to 'fipImage.adjustBrightness(System.Double)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(870): warning C4635: XML document comment applied to 'fipImage.adjustContrast(System.Double)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(927): warning C4635: XML document comment applied to 'fipImage.setModified(System.Int32)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(967): warning C4635: XML document comment applied to 'fipImage.setMetadata(FREE_IMAGE_MDMODEL,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*,fipTag*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1000): warning C4635: XML document comment applied to 'fipWinImage': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1016): warning C4635: XML document comment applied to 'fipWinImage.#ctor(FREE_IMAGE_TYPE,System.UInt32,System.UInt32,System.UInt32)': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1050): warning C4635: XML document comment applied to 'fipWinImage.copyToHandle': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1058): warning C4635: XML document comment applied to 'fipWinImage.copyFromHandle(System.Void*)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1066): warning C4635: XML document comment applied to 'fipWinImage.copyFromBitmap(HBITMAP__*)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1116): warning C4635: XML document comment applied to 'fipWinImage.drawEx(HDC__*,tagRECT*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,tagRGBQUAD*,FIBITMAP*)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1194): warning C4635: XML document comment applied to 'fipMemoryIO.#ctor(System.Byte*,System.UInt32!System.Runtime.CompilerServices.IsLong)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1450): warning C4635: XML document comment applied to 'fipMultiPage.lockPage(System.Int32)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1502): warning C4635: XML document comment applied to 'fipTag.#ctor': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1514): warning C4635: XML document comment applied to 'fipTag.setKeyValue(System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1538): warning C4635: XML document comment applied to 'fipTag.op_Assign(FITAG*)': badly-formed XML: Only one top level element is allowed in an XML document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1649): warning C4635: XML document comment applied to 'fipMetadataFind': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\imediamanager.h(18): warning C4635: XML document comment applied to 'IMediaManager.load(std.vector<std.basic_string<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>>,std.allocator<std.basic_string<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>>>>)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\imediamanager.h(28): warning C4635: XML document comment applied to 'IMediaManager.getmediaFactory': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\imediamanager.h(32): warning C4635: XML document comment applied to 'IMediaManager.getimageList': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\mediamanager.h(25): warning C4635: XML document comment applied to 'MediaManager.load(std.vector<std.basic_string<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>>,std.allocator<std.basic_string<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>>>>)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\mediamanager.h(35): warning C4635: XML document comment applied to 'MediaManager.getmediaFactory': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\mediamanager.h(39): warning C4635: XML document comment applied to 'MediaManager.getimageList': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\mediamanager.cpp(7): warning C4635: XML document comment applied to 'MediaManager.getmediaFactory': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\mediamanager.cpp(14): warning C4635: XML document comment applied to 'MediaManager.getimageList': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\mediamanager.cpp(21): warning C4635: XML document comment applied to 'MediaManager.load(std.vector<std.basic_string<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>>,std.allocator<std.basic_string<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte,std.char_traits{System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte},std.allocator<System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte>>>>)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\mediamanager.cpp(35): warning C4018: '<': signed/unsigned mismatch
+         ImageFactory.cpp
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(118): warning C4635: XML document comment applied to 'fipImage.#ctor(FREE_IMAGE_TYPE,System.UInt32,System.UInt32,System.UInt32)': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(148): warning C4635: XML document comment applied to 'fipImage.op_Assign(FIBITMAP*)': badly-formed XML: Only one top level element is allowed in an XML document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(236): warning C4635: XML document comment applied to 'fipImage.load(System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*,System.Int32)': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(341): warning C4635: XML document comment applied to 'fipImage.op_Implicit~FIBITMAP*': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(385): warning C4635: XML document comment applied to 'fipImage.getBitsPerPixel': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(392): warning C4635: XML document comment applied to 'fipImage.getLine': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(491): warning C4635: XML document comment applied to 'fipImage.accessPixels': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(504): warning C4635: XML document comment applied to 'fipImage.getScanLine(System.UInt32)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(596): warning C4635: XML document comment applied to 'fipImage.convertToGrayscale': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(604): warning C4635: XML document comment applied to 'fipImage.colorQuantize(FREE_IMAGE_QUANTIZE)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(792): warning C4635: XML document comment applied to 'fipImage.rotateEx(System.Double,System.Double,System.Double,System.Double,System.Double,System.Int32)': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(838): warning C4635: XML document comment applied to 'fipImage.adjustCurve(System.Byte*,FREE_IMAGE_COLOR_CHANNEL)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(861): warning C4635: XML document comment applied to 'fipImage.adjustBrightness(System.Double)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(870): warning C4635: XML document comment applied to 'fipImage.adjustContrast(System.Double)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(927): warning C4635: XML document comment applied to 'fipImage.setModified(System.Int32)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(967): warning C4635: XML document comment applied to 'fipImage.setMetadata(FREE_IMAGE_MDMODEL,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*,fipTag*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1000): warning C4635: XML document comment applied to 'fipWinImage': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1016): warning C4635: XML document comment applied to 'fipWinImage.#ctor(FREE_IMAGE_TYPE,System.UInt32,System.UInt32,System.UInt32)': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1050): warning C4635: XML document comment applied to 'fipWinImage.copyToHandle': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1058): warning C4635: XML document comment applied to 'fipWinImage.copyFromHandle(System.Void*)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1066): warning C4635: XML document comment applied to 'fipWinImage.copyFromBitmap(HBITMAP__*)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1116): warning C4635: XML document comment applied to 'fipWinImage.drawEx(HDC__*,tagRECT*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Int32,tagRGBQUAD*,FIBITMAP*)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1194): warning C4635: XML document comment applied to 'fipMemoryIO.#ctor(System.Byte*,System.UInt32!System.Runtime.CompilerServices.IsLong)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1450): warning C4635: XML document comment applied to 'fipMultiPage.lockPage(System.Int32)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1502): warning C4635: XML document comment applied to 'fipTag.#ctor': badly-formed XML: Whitespace is not allowed at this location.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1514): warning C4635: XML document comment applied to 'fipTag.setKeyValue(System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*,System.SByte!System.Runtime.CompilerServices.IsSignUnspecifiedByte!System.Runtime.CompilerServices.IsConst*)': badly-formed XML: Invalid at the top level of the document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1538): warning C4635: XML document comment applied to 'fipTag.op_Assign(FITAG*)': badly-formed XML: Only one top level element is allowed in an XML document.
+         
+     1>c:\users\hodj1_14\downloads\14008120_comp3304_finalmilestone\14010713_comp3304_finalmilestone\imagemanipulator\images\include\freeimageplus.h(1649): warning C4635: XML document comment applied to 'fipMetadataFind': badly-formed XML: Invalid at the top level of the document.
+         
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Debug\Images.lib" /NOLOGO Debug\ImageFactory.obj
+         Debug\MediaManager.obj
+         Debug\stdafx.obj
+         Images.vcxproj -> C:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Debug\Images.lib
+       XdcMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\xdcmake.exe /old "Images" /nologo /Fo"C:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Debug\.xml" /FsDebug\ImageFactory.xdc /FsDebug\MediaManager.xdc /FsDebug\stdafx.xdc
+       PostBuildEvent:
+         xcopy /d /y "C:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Images\Libs\*.dll" "C:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Debug\"
+         :VCEnd
+         C:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Images\Libs\FreeImaged.dll
+         C:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Images\Libs\FreeImagePlusd.dll
+         2 File(s) copied
+     1>Done Building Project "C:\Users\HODJ1_14\Downloads\14008120_COMP3304_FinalMilestone\14010713_COMP3304_FinalMilestone\ImageManipulator\Images\Images.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.02
